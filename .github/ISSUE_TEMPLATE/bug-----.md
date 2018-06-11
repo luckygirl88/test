@@ -1,35 +1,36 @@
 ---
 name: Bug提交的模板
-about: Create a report to help us improve
+about: CSIIBug提交模板
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Bug的描述**
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Bug的标题**
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+1. 开发人员    '...'
+2. 测试人员    '....'
+3. 创建时间    '....'
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**测试步骤**
+1 
+2
+3
+3
 
-**Additional context**
-Add any other context about the problem here.
+**Bug等级**
+
+
+
+**版本号**
+
+
+
+**Bug的状态**
+ 受理
+打开
+关闭
+
+**附加图片**
